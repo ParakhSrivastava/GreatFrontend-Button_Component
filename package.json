@@ -1,0 +1,11 @@
+{
+  "name": "button-component-project",
+  "version": "1.0.0",
+  "description": "Practice components",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Parakh Srivastava",
+  "license": "ISC"
+}
